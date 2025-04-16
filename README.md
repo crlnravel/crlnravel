@@ -66,10 +66,8 @@ Feel free to get inspired, but remember to make your profile uniquely *yours*!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crlnravel&layout=compact&theme=radical&hide_border=true" alt="Ravel's Top Languages"/>
   <br/>
   <!-- Option 3: Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlnravel&theme=radical&hide_border=true" alt="Ravel's Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=crlnravel&theme=radical&hide_border=true" alt="Ravel's Contribution Streak"/>
 </p>
-<!-- Customize themes and options here: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Customize streak stats here: https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 ---
 
@@ -77,20 +75,6 @@ Feel free to get inspired, but remember to make your profile uniquely *yours*!
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/carleano-ravelza-wongso-872b1821a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-  <!-- Find suitable logo names on simpleicons.org -->
   <a href="mailto:carleanoravel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
-  <!-- Add other relevant links -->
 </p>
 
----
-
-<!-- WakaTime Stats (If you use WakaTime) -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[YOUR_WAKATIME_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats"/>
-</p> -->
-
-<!-- Contribution Graph Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/crlnravel/crlnravel/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
-<!-- Needs setup: https://github.com/platane/snk -->
