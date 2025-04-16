@@ -3,12 +3,6 @@ Hey there! Thanks for checking out my profile's source code.
 Feel free to get inspired, but remember to make your profile uniquely *yours*! 
 -->
 
-<!-- Header Banner -->
-<p align="center">
-  <img src="" alt="Amazing Banner representing my work or interests" width="800"/> 
-  <!-- Find/Create banners via Canva, Figma, or generative AI. Keep size reasonable. -->
-</p>
-
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Ravel 👋</h1>
 <p align="center">
@@ -65,8 +59,6 @@ Feel free to get inspired, but remember to make your profile uniquely *yours*!
   <!-- Option 2: Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crlnravel&layout=compact&theme=radical&hide_border=true" alt="Ravel's Top Languages"/>
   <br/>
-  <!-- Option 3: Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=crlnravel&theme=radical&hide_border=true" alt="Ravel's Contribution Streak"/>
 </p>
 
 ---
