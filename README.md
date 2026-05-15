@@ -7,14 +7,6 @@ Feel free to get inspired, but remember to make your profile uniquely *yours*!
 <h1 align="center">Hi there, I'm Ravel 👋</h1>
 <p align="center">
   <em>Compsci Student at Universitas Indonesia | Building Scalable Web App | Jakarta, Indonesia </em>
-  <br />
-  <br />
-  🚀 I'm passionate about Web Development and DevOps.
-  <br />
-  💻 Currently focused on Backend Development.
-  <br />
-  🌱 Always learning about Software Reliability.
-  <br />
 </p>
 
 ---
